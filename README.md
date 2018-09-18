@@ -1,6 +1,8 @@
 # DISCO2 - A Web Application for Data Visulization and Analysis
 
-[Swift 4.0.3](https://swift.org) - A personal expense tracking app built to be fast and designed to be flexible and simple to use.
+#### Designed to visualize and analyze large geo-spatial datasets for costal classifcations and typology.
+#### Written in HTML/CSS, JavaScript, PHP and MySQL.
+#### Two embedded R-shiny apps are written in R.
 
 ## Features
 - [x] Welcome page
